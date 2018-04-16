@@ -3,4 +3,6 @@ hello i am new file from rupesh1 branch
 this is my file textfile
 this is my branch file
 textfile is a changed file
+this is a file
+this is a design file
 
