@@ -4,3 +4,4 @@ this is my file textfile
 this is my branch file
 textfile is a changed file
 
+a new line added
